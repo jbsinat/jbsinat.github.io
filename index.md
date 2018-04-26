@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### 分割线
+[向git推送文件出错](https://github.com/jbsinat/jbsinat.github.io/blob/master/md/%E5%90%91git%E6%8E%A8%E9%80%81%E6%96%87%E4%BB%B6%E5%87%BA%E9%94%99.md)
